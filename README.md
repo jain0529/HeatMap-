@@ -212,15 +212,7 @@ jupyter notebook
 
 ---
 
-## Next Steps
 
-- **Deploy the urgency model** as a web app or EHR plugin, updated annually as NIRD refreshes.
-- **Link to outcomes data** — connect NIRD structural gaps to ACS TQIP / BQIP to quantify the clinical cost of delayed referral.
-- **Annual re-run** to track whether IL, SC, and other high-pressure states improve verified capacity over time.
-- **Richer demand modelling** — incorporate fire incident rates and industrial exposure data as demand-side proxies.
-- **Validate urgency flags** — compare HIGH-urgency predictions against known adverse transfer outcomes in literature.
-
----
 
 ## Acknowledgements
 

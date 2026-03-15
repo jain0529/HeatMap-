@@ -20,16 +20,3 @@ You can install these dependencies using `pip`:
 ```bash
 pip install pandas numpy pgeocode
 ```
-
-## How to proceed with GitHub
-
-Before you can push this to GitHub, make sure you have created an empty repository on your GitHub account!
-1. Go to [github.com/new](https://github.com/new) and **create a new repository**. *Important: Do NOT check the boxes to initialize with a README, .gitignore, or license, since those are already created here.*
-2. Copy the URL of your new repository.
-3. In your terminal, verify you are inside the `Heatmap Hackathon Codes` directory, and run the following commands (replace `YOUR_GITHUB_USERNAME` and `YOUR_REPOSITORY_NAME` with your actual details):
-
-```bash
-git branch -M main
-git remote add origin https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME.git
-git push -u origin main
-```
